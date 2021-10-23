@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PGrabowski-9290 / Cześć  Paweł. Obecnie student 3 roku na WWSI
+- 👋 Hi, I’m @PGrabowski-9290 / Cześć z tej strony ekranu Paweł. Obecnie student 3 roku na WWSI
 - Git stworzony na potrzeby uczelni WWSI 
 
 <!---
