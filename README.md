@@ -4,5 +4,4 @@ Projekty przygotowane na uczelnie oraz rozwijane w celu własnej edukacji tworzy
 - NodeJS + ExpressJS
 - MSSQL, MongoDB
 - ReactJS
-
-Pracowałem również z technologią ASP.NET 5
+- ASP.NET
