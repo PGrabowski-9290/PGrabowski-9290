@@ -5,3 +5,4 @@ Projekty przygotowane na uczelnie oraz rozwijane w celu własnej edukacji tworzy
 - MSSQL, MongoDB
 - ReactJS
 - ASP.NET
+- Java + Spring Boot i Webflux
