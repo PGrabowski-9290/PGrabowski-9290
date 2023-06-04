@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @PGrabowski-9290 / Cześć z tej strony ekranu Paweł. Obecnie student 4 roku na [WWSI](https://wwsi.edu.pl/)
+### 👋 Hi, actualy i'm looking for a job as a Backend Web Developer
 
-Projekty przygotowane na uczelnie oraz rozwijane w celu własnej edukacji tworzyłem w poniższych technologiach:
+#### Stack  
 - NodeJS + ExpressJS
 - MSSQL, MongoDB
 - ReactJS
 - ASP.NET
-- Java + Spring Boot i Webflux
+- Java + Spring Boot i Webflux  
+Used for studies projects and self education
+
+#### Connect with me
+<p left="center">
+<a href="https://www.linkedin.com/in/pawe%C5%82-grabowski-a06b62189/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
